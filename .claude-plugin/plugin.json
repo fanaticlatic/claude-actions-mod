@@ -1,0 +1,8 @@
+{
+  "name": "actions",
+  "version": "0.1.0",
+  "description": "Checklist of actions Claude asked you to take, shared across sessions",
+  "author": { "name": "fanaticlatic" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

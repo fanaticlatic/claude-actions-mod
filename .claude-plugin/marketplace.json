@@ -1,0 +1,5 @@
+{
+  "name": "claude-actions-mod",
+  "owner": { "name": "fanaticlatic" },
+  "plugins": [{ "name": "actions", "source": "./" }]
+}
